@@ -1,0 +1,82 @@
+[
+    {
+        "Path" : "tilesets/tileset1/tiles/b_half.png",
+        "Weight" : 1,
+        "Rules" : [
+            [ 1, 3, 4, 6 ],
+            [ 0, 1, 2, 7 ],
+            [ 4, 5, 6, 7 ],
+            [ 0, 1, 6, 7 ]
+        ]
+    },
+    {
+        "Path" : "tilesets/tileset1/tiles/b_i.png",
+        "Weight" : 1,
+        "Rules" : [
+            [ 1, 3, 4, 6 ],
+            [ 0, 1, 2, 7 ],
+            [ 0, 1, 2, 3 ],
+            [ 0, 1, 6, 7 ]
+        ]
+    },
+    {
+        "Path" : "tilesets/tileset1/tiles/b_quarter.png",
+        "Weight" : 1,
+        "Rules" : [
+            [ 1, 3, 4, 6 ],
+            [ 3, 4, 5, 6 ],
+            [ 4, 5, 6, 7 ],
+            [ 0, 1, 6, 7 ]
+        ]
+    },
+    {
+        "Path" : "tilesets/tileset1/tiles/b.png",
+        "Weight" : 1,
+        "Rules" : [
+            [ 1, 3, 4, 6 ],
+            [ 3, 4, 5, 6 ],
+            [ 0, 1, 2, 3 ],
+            [ 2, 3, 4, 5 ]
+        ]
+    },
+    {
+        "Path" : "tilesets/tileset1/tiles/w_half.png",
+        "Weight" : 1,
+        "Rules" : [
+            [ 0, 2, 5, 7 ],
+            [ 3, 4, 5, 6 ],
+            [ 0, 1, 2, 3 ],
+            [ 2, 3, 4, 5 ]
+        ]
+    },
+    {
+        "Path" : "tilesets/tileset1/tiles/w_i.png",
+        "Weight" : 1,
+        "Rules" : [
+            [ 0, 2, 5, 7 ],
+            [ 3, 4, 5, 6 ],
+            [ 4, 5, 6, 7 ],
+            [ 2, 3, 4, 5 ]
+        ]
+    },
+    {
+        "Path" : "tilesets/tileset1/tiles/w_quarter.png",
+        "Weight" : 1,
+        "Rules" : [
+            [ 0, 2, 5, 7 ],
+            [ 0, 1, 2, 7 ],
+            [ 0, 1, 2, 3 ],
+            [ 2, 3, 4, 5 ]
+        ]
+    },
+    {
+        "Path" : "tilesets/tileset1/tiles/w.png",
+        "Weight" : 1,
+        "Rules" : [
+            [ 0, 2, 5, 7 ],
+            [ 0, 1, 2, 7 ],
+            [ 4, 5, 6, 7 ],
+            [ 0, 1, 6, 7 ]
+        ]
+    }
+]

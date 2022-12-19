@@ -1,0 +1,32 @@
+[
+    {
+        "Path" : "tilesets/tileset2/tiles/blue.png",
+        "Weight" : 1,
+        "Rules" : [
+            [ 0, 2 ],
+            [ 0, 2 ],
+            [ 0, 2 ],
+            [ 0, 2 ]
+        ]
+    },
+    {
+        "Path" : "tilesets/tileset2/tiles/red.png",
+        "Weight" : 1,
+        "Rules" : [
+            [ 1, 2 ],
+            [ 1, 2 ],
+            [ 1, 2 ],
+            [ 1, 2 ]
+        ]
+    },
+    {
+        "Path" : "tilesets/tileset2/tiles/violet.png",
+        "Weight" : 1,
+        "Rules" : [
+            [ 0, 1, 2 ],
+            [ 0, 1, 2 ],
+            [ 0, 1, 2 ],
+            [ 0, 1, 2 ]
+        ]
+    }
+]
